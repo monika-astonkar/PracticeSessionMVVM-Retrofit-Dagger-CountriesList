@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM,Retrofit,Dagger Sample-Countries List</string>
+    <string name="an_error_occurred_while_loading_countries_list_data">An error occurred while loading countries list data.</string>
+</resources>
